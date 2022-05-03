@@ -1,6 +1,8 @@
 # dubbo3.0-sentinel
 整合dubbo3.0和sentinel，并给出sentinel的限流和熔断例子
 
+<strong>觉得有用的朋友请帮忙点个♥♥♥star♥♥♥</strong>
+
 <strong>一、linux环境下载sentinel</strong>
 
 wget https://github.com/alibaba/Sentinel/releases/download/1.8.4/sentinel-dashboard-1.8.4.jar
